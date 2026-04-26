@@ -26,7 +26,6 @@ order: 3
 | Bonnefoy | Léa | LERMA | Icy moons, Titan, radar, microwave radiometry. | |
 | Cattani  | Fanny | IPGP | Noble gas, Geochronology, Instrumentation & Experimental development. | |
 | Poggiali  | Giovanni | LESIA |  Small bodies, Mars, laboratory analogs, IR-spectroscopy, space missions, astrobiology. | <a href="https://www.giovannipoggiali.eu/"><i class="fa fa-external-link"></i></a> |
-| Xu | Zongbo | IPGP | Martian seismology and fluid-solid coupling. |  |
 
 ### Ph.D. students
 

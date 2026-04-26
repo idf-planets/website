@@ -22,11 +22,11 @@ window.getSelection().removeAllRanges();
 }
 </script>
 
-<iframe width="900" height="800" src="https://framagenda.org/apps/calendar/embed/BJkXk4dmeB3P89Lz"></iframe>
+<iframe width="900" height="800" src="https://cloud.planetary-research.org/index.php/apps/calendar/embed/sXeNC5x8WqESKwZo"></iframe>
 
 <p></p>
 *You can subscribe to this calendar by using this url in your calendar application:*
 
 <span id="calendar">
-```https://framagenda.org/remote.php/dav/public-calendars/BJkXk4dmeB3P89Lz?export```</span>
+```https://cloud.planetary-research.org/remote.php/dav/public-calendars/sXeNC5x8WqESKwZo?export```</span>
 <a href="#" onclick="CopyToClipboard('calendar');return false;" class="button small">Copy</a>

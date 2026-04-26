@@ -11,7 +11,7 @@ order: 9
 
 ## Mastodon and Bluesky
 
-Ile-de-France Planets is on both Mastodon and Bluesky! We post about planetary science events occurring in Ile-de-France, scientific discoveries made by researchers in our laboratories, and funding opportunities in the greater Paris area. If you would like to keep up to date with the planetary science activities in Ile-de-France, please consider following us:
+Ile-de-France Planets is on both Mastodon and Bluesky! We post about planetary science events occurring in Ile-de-France, scientific discoveries made by researchers in our laboratories, and funding opportunities in the greater Paris area. If you would like to keep up to date with the planetary science activities in Ile-de-France, please following us on
 
 * Mastodon: <a href="https://solarsystem.social/@IDF_Planets">@IDF_Planets@solarsystem.social</a>
 

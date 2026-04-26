@@ -18,6 +18,6 @@ The goals of **Ile-de-France Planets** are to
 * Facilitate the advertisement of master and Ph.D. thesis topics, post-doc positions, and job openings within our research groups, and to
 * Promote our research to the general public.
 
-Through this web site, we aim to provide a general overview of the planetary science research groups, researchers, and academic programs that are located in Ile-de-France. To this end, we have created email lists and public calendars for general announcements and the advertisement of seminars. We have also created social media accounts for disseminating the result of our research.
+Through this web site, we aim to provide a general overview of the planetary science research groups, researchers, and academic programs that are located in Ile-de-France. To this end, we have created email lists and public calendars for general announcements and the advertisement of seminars. We have also created social media accounts for disseminating the results of our research.
 
 This initiative is driven entirely by the planetary science community and is not affiliated with any particular organization within Ile-de-France. We depend entirely on volunteers for developing this web site. If you would like to get involved, or simply have comments on how things could be improved, please get in touch with us!

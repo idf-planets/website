@@ -31,4 +31,4 @@ order: 3
 
 | Es-Sayeh  | Maël | IPGP | Titan, Radiative transfer, IR-spectroscopy, Hyperspectral spectroscopy. | <a href="https://www.ipgp.fr/annuaire/essayeh/"><i class="fa fa-external-link"></i></a> |
 
-<a href="https://my.liberaforms.org/ile-de-france-planetary-scientists" class="button small">Add your name</a>
+<a href="https://forms.solarsystem.tools/ile-de-france-planetary-scientists" class="button small">Add your name</a>
